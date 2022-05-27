@@ -1,6 +1,3 @@
 # Example
-
-To run this example:
-
-- `npm install` or `yarn`
-- `npm run dev` or `yarn dev`
+Meme fetching  with image scraped from relevant URL using Puppeteer Node and Fastify Server.
+Fastify alternative to express server is very fast ⚡. 
